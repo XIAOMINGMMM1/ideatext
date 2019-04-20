@@ -10,6 +10,10 @@ public class Demo1 {
 
 
     }
+
+    /**
+     * aaaa
+     */
     public void text(){
         System.out.println(10);
     }
