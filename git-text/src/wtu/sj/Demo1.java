@@ -10,4 +10,7 @@ public class Demo1 {
 
 
     }
+    public void text(){
+        System.out.println(10);
+    }
 }
